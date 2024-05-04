@@ -29,6 +29,17 @@ sl.on("close", () => {
   process.exit();
 });
 ```
+## Output
+
+``` 
+[ ] foo
+[*] bar
+[ ] baz
+
+Selected option: bar
+
+The user selected: bar
+```
 
 ## License
 
