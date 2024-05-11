@@ -42,7 +42,7 @@ const Selection =
           .join('\r\n');
 
         // Display the options and hide the cursor
-        this.write('\r\n' + optionsText + constants.EOL + ansiEscapes.cursorHide);
+        this.write(optionsText + constants.EOL + ansiEscapes.cursorHide);
       }
 
       close() {
