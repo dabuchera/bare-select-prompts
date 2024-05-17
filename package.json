@@ -1,6 +1,6 @@
 {
   "name": "bare-select-prompts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Single and multiple select prompts for interactive CLIs",
   "main": "index.js",
   "files": [
